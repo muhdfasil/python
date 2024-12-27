@@ -32,5 +32,3 @@ if f==1:
     print("a value occure in both list")
 else:
     print("value not occure in both list")
-
-print(sum(list1))
